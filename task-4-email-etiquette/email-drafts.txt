@@ -1,0 +1,38 @@
+=== EMAIL 1: Assignment Extension Request ===
+
+Subject: Request for CSE101 Assignment Extension - Reg. No.: 25BAI10272
+
+Respected Professor,
+
+I am Plansha, Registration No.: 25BAI10272, 1st year CSE(AI-ML) student at VIT Bhopal University. I have completed 80% of the CSE101 assignment but encountered unexpected health issues (fever and hostel isolation protocol) that prevented timely submission.
+
+Could I kindly request a 3-day extension until March 30, 2026? I am committed to delivering quality work meeting all assignment requirements.
+
+Thank you for your understanding and support.
+
+Best regards,  
+Plansha  
+Reg No.: [25BAI10272]  
+B.Tech CSE(AI-ML), 1st Year  
+VIT Bhopal  
+plansha.25bai10272@vitbhopal.ac.in
+
+---
+
+=== EMAIL 2: Internship Interest ===
+
+Subject: Summer 2026 Software Intern Position - Plansha (Reg No.: 25BAI10272)
+
+Dear Internship Coordinator,
+
+I am Plansha, 1st year B.Tech CSE(AI-ML) student at VIT Bhopal University (Reg No.: 25BAI10272). I discovered your Summer 2026 Software Intern position on LinkedIn and am eager to contribute to backend development projects.
+
+My GitHub portfolio (github.com/Plansha) features Python/DSA projects from hackathons and academic coursework. I am available June-July 2026 and excited to learn production-level coding practices.
+
+Thank you for considering my application. Resume attached.
+
+Best regards,  
+Plansha  
+B.Tech CSE(AI-ML) | VIT BHOPAL | Class of 2029
+github.com/Plansha | linkedin.com/in/plansha 
+plansha.25bai10272@vitbhopal.ac.in
